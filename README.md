@@ -1,13 +1,16 @@
 # ML_and_DS
 
-This repository contains assignments, notebooks, and prjects related to **Machine Learning** and **Data Science**.
+This repo contains code, notebooks, and projects related to **Machine Learning** and **Data Science**.
 
 ## Contents
 
-- Jupyter Notebooks from coursework and practise
-- Implementations of machine learning algorithms using Python
-- Exploratory Data Analysis (EDA) on various datasets
-- Mini-projects and experiments
+- **Data Science Projects**
+- **Machine Learning Models**
+- **Experiment & Research**
+  - Jupyter Notebooks from coursework and practice
+  - Implementations of machine learning algorithms using Python
+  - Exploratory Data Analysis (EDA) on various datasets
+  - Mini-projects and experiments
 
 ## Tools & Technologies
 
